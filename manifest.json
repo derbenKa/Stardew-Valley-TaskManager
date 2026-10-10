@@ -1,0 +1,16 @@
+{
+  "Name": "TaskManager",
+  "Author": "derBenKa",
+  "Version": "1.0.0",
+  "Description": "Notes, to-do lists (personal and shared in multiplayer) and an overview of everything still needed for the Community Center.",
+  "UniqueID": "derBenKa.TaskManager",
+  "EntryDll": "TaskManager.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [],
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.GenericModConfigMenu",
+      "IsRequired": false
+    }
+  ]
+}
